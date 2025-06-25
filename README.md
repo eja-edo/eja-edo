@@ -11,7 +11,7 @@
   🚀 I aim to build <strong>high-performance, scalable, and robust web systems</strong> using modern technologies. <br/>
   🌱 Currently exploring <strong>Microservices</strong> and advanced <strong>DevOps</strong> practices. <br/>
   👯 Open to collaboration on <strong>Python/Django</strong> or <strong>Java/Spring</strong> projects. <br/>
-  📫 Reach me at: <a href="mailto:duyanhsadg@gmail.com">duyanhsadg@gmail.com</a>
+  📫 Reach me at: <a href="https://mail.google.com/mail/u/0/?hl=en-GB#inbox?compose=DmwnWrRttNcprvZKmdMlvcFllcBThwzcJWNNKfFWSKTCBkhxkxQzvtgzTjvckWzMWjvVWVrvBHMg">duyanhsadg@gmail.com</a>
 </p>
 
 ---
